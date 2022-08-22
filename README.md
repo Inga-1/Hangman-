@@ -4,15 +4,15 @@ A game of Hangman in Haskell.
 
 Sample of the process:
 
-> main
+main
 I'm thinking of a word:
 ------
 Your guess?
 trains
---tat-
+"--tat-"
 Your guess?
 trouts
--ot-to
+"-ot-to"
 Your guess?
 potato
 Correct!
@@ -25,7 +25,7 @@ tomato
 Wrong number of letters
 Your guess?
 reads
--ra-e
+"-ra-e"
 Your guess?
 grape
 Correct!
