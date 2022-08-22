@@ -4,9 +4,8 @@ A game of Hangman in Haskell.
 
 Sample of the process:
 
-main
 I'm thinking of a word:
-------
+
 Your guess?
 trains
 "--tat-"
@@ -19,7 +18,7 @@ Correct!
 Play again?
 yes
 I'm thinking of a word:
------
+
 Your guess?
 tomato
 Wrong number of letters
@@ -31,4 +30,4 @@ grape
 Correct!
 Play again?
 no
-> 
+
